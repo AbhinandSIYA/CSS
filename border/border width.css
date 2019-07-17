@@ -1,0 +1,24 @@
+.one{
+    border-style: solid;
+    border-width: 5px;
+}
+.two{
+    border-style: solid;
+    border-width: medium;
+}
+.three{
+    border-style: dotted;
+    border-width: 2px;
+}
+.four{
+    border-style: dotted;
+    border-width: thick;
+}
+.five{
+    border-style: double;
+    border-width: 15px;
+}
+.six{
+    border-style: double;
+    border-width: thick;
+}
