@@ -17,17 +17,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/max-width/max-width.html">
+        <entry file="file://$PROJECT_DIR$/position/position absolute.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="96">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/position/position sticky.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/max-width/max-width.css">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/position/overlapping elements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="16" column="3909" selection-start-line="16" selection-start-column="3909" selection-end-line="16" selection-end-column="3909" />
+              <folding>
+                <element signature="n#src#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -35,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,13 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/text/line height.html" />
-        <option value="$PROJECT_DIR$/text/text direction.html" />
-        <option value="$PROJECT_DIR$/text/word spacing.html" />
-        <option value="$PROJECT_DIR$/text/text shadow.html" />
-        <option value="$PROJECT_DIR$/fonts/font family.css" />
-        <option value="$PROJECT_DIR$/fonts/font family.html" />
-        <option value="$PROJECT_DIR$/fonts/font style.css" />
         <option value="$PROJECT_DIR$/fonts/font style.html" />
         <option value="$PROJECT_DIR$/fonts/font size pixel.html" />
         <option value="$PROJECT_DIR$/fonts/font size  em.html" />
@@ -95,8 +107,15 @@
         <option value="$PROJECT_DIR$/display/block2.html" />
         <option value="$PROJECT_DIR$/display/hide an element.html" />
         <option value="$PROJECT_DIR$/display/hide an element2.html" />
-        <option value="$PROJECT_DIR$/max-width/max-width.html" />
         <option value="$PROJECT_DIR$/max-width/max-width.css" />
+        <option value="$PROJECT_DIR$/max-width/max-width.html" />
+        <option value="$PROJECT_DIR$/position/position static.html" />
+        <option value="$PROJECT_DIR$/position/position relative.html" />
+        <option value="$PROJECT_DIR$/position/position fixed.html" />
+        <option value="$PROJECT_DIR$/position/position absolute.css" />
+        <option value="$PROJECT_DIR$/position/position absolute.html" />
+        <option value="$PROJECT_DIR$/position/position sticky.html" />
+        <option value="$PROJECT_DIR$/position/overlapping elements.html" />
       </list>
     </option>
   </component>
@@ -123,7 +142,7 @@
             <path>
               <item name="CSS Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="html basics" type="462c0819:PsiDirectoryNode" />
-              <item name="max-width" type="462c0819:PsiDirectoryNode" />
+              <item name="position" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563354449633</updated>
       <workItem from="1563354452349" duration="23598000" />
-      <workItem from="1563405083037" duration="14244000" />
+      <workItem from="1563405083037" duration="16081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37842000" />
+    <option name="totallyTimeSpent" value="39679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
@@ -230,55 +249,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/text/line height.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/text direction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/word spacing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/text shadow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/font family.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/font family.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/font style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fonts/font style.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -599,15 +569,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/max-width/max-width.html">
+    <entry file="file://$PROJECT_DIR$/max-width/max-width.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="192">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/max-width/max-width.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/position/position absolute.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/position fixed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/position relative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/position static.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max-width/max-width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/position absolute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/position sticky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/overlapping elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="3909" selection-start-line="16" selection-start-column="3909" selection-end-line="16" selection-end-column="3909" />
+          <folding>
+            <element signature="n#src#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
